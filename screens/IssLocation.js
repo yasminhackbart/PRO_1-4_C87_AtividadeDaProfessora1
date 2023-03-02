@@ -1,17 +1,3 @@
-import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+// faça os importes necessários
 
-export default class IssLocationScreen extends Component {
-    render() {
-        return (
-            <View
-                style={{
-                    flex: 1,
-                    justifyContent: "center",
-                    alignItems: "center"
-                }}>
-                <Text>Tela Rastreador EEI!</Text>
-            </View>
-        )
-    }
-}
+// crie a classe IssLocationScreen
